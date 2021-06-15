@@ -4,14 +4,12 @@ This is a basic tool written in Python using the Click CLI library. The motivati
 # Installation
 
 ```bash
-pip install foobar
+git pull git@github.com:J-Wilson07/cli_calculator.git
 ```
 
-'''bash
-git pull git@github.com:J-Wilson07/cli_calculator.git
-'''
-'''bash python3 -m pip3 install
-'''
+```bash
+bash python3 -m pip3 install
+```
 
 # Usage
 python3 cli_calculator help
