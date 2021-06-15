@@ -8,12 +8,28 @@ git pull git@github.com:J-Wilson07/cli_calculator.git
 ```
 
 ```bash
-bash python3 -m pip3 install
+python3 -m pip3 install
 ```
 
 # Usage
+
+```bash
 python3 cli_calculator help
+```
+
+```bash
 python3 cli_calculator addition <values>
+```
+
+```bash
 python3 cli_calculator subtraction <values>
+```
+
+```bash
 python3 cli_calculator multiplication <values>
+```
+
+```bash
 python3 cli_calculator division <values>
+```
+
