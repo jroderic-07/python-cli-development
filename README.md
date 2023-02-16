@@ -1,5 +1,7 @@
-# cli_calculator
-This is a basic tool written in Python using the Click CLI library. The motivation behind this project is to learn how to use the Click library to create clean Python CLI applications.
+# CLI Calculator
+This is a basic command-line interface written using Python and Click.
+The motivation behind this project is to demonstrate how a simple command-line interface can be created using Python.
+This can be useful as a quick reference.
 
 # Installation
 
