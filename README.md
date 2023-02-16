@@ -1,4 +1,4 @@
-# CLI Calculator
+# Python CLI Calculator
 This is a basic command-line interface written using Python and Click.
 The motivation behind this project is to demonstrate how a simple command-line interface can be created using Python.
 This can be useful as a quick reference.
